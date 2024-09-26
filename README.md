@@ -1,4 +1,4 @@
-# lbell_225a
+# lbell
 
 This is my repo for BMS25a - Data Science. My work is organized as follows:
 
